@@ -26,14 +26,14 @@ Bem-vindo! Aqui estão alguns dos projetos em que atuei como desenvolvedor Front
 ![DUOM Preview](https://raw.githubusercontent.com/felipecostta94/portfolio-projeto/main/duom.png)
 
 
-### 📌 [Maltta]
+### 📌 [AG Agência de Gestão]
 - **Função no projeto:** Desenvolvedor Front-End
 - **Tecnologias utilizadas:** HTML, CSS, JavaScript, jQuery
-- **Descrição:** Site institucional desenvolvido para a Maltta. Apresenta informações sobre a marca e seu portfólio de produtos, com detalhes, imagens e especificações. Inclui seções sobre a empresa, diferenciais, notícias e canais de contato. O layout é moderno, responsivo e voltado para uma navegação intuitiva em qualquer dispositivo.
-- **Link:** [Acessar site](https://www.maltta.com.br)
+- **Descrição:** Site institucional desenvolvido para a Agência de Gestão. Apresenta informações sobre a empresa, seus serviços de gestão e soluções empresariais, com seções que destacam diferenciais, cases e canais de contato. Possui layout moderno, responsivo e otimizado para oferecer uma navegação intuitiva em diferentes dispositivos.
+- **Link:** [Acessar site](https://agenciadegestao.com.br/)
 - **Preview:**
 
-![Maltta Preview](https://raw.githubusercontent.com/felipecostta94/portfolio-projeto/main/maltta.png)
+![DUOM Preview](https://raw.githubusercontent.com/felipecostta94/portfolio-projeto/main/ag.png)
 
 
 ### 📌 [Estruturar]
@@ -65,6 +65,15 @@ Bem-vindo! Aqui estão alguns dos projetos em que atuei como desenvolvedor Front
 
 ![OK Assessoria Preview](https://raw.githubusercontent.com/felipecostta94/portfolio-projeto/main/ok-assesoria.png)
 
+
+### 📌 [Maltta]
+- **Função no projeto:** Desenvolvedor Front-End
+- **Tecnologias utilizadas:** HTML, CSS, JavaScript, jQuery
+- **Descrição:** Site institucional desenvolvido para a Maltta. Apresenta informações sobre a marca e seu portfólio de produtos, com detalhes, imagens e especificações. Inclui seções sobre a empresa, diferenciais, notícias e canais de contato. O layout é moderno, responsivo e voltado para uma navegação intuitiva em qualquer dispositivo.
+- **Link:** [Acessar site](https://www.maltta.com.br)
+- **Preview:**
+
+![Maltta Preview](https://raw.githubusercontent.com/felipecostta94/portfolio-projeto/main/maltta.png)
 
 
 ## 🧪 Projetos Pessoais / Estudos
